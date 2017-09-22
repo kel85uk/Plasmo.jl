@@ -6,7 +6,7 @@ The primary developers are Jordan Jalving(@jalving) and Yankai Cao (@YankaiCao),
 # Installation
 
 ```julia
-Pkg.clone("https://github.com/jalving/Plasmo.jl")
+Pkg.clone("https://github.com/zavalab/Plasmo.jl")
 ```
 
 # Simple Example
